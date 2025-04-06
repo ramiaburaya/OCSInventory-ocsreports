@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.ocsinventory-ng.org/common/banners/banner660px.png" height=300 width=660 alt="Banner">
+  <img src="https://titanshield.ps/wp-content/uploads/2025/03/Logo-3-1024x310.png" height=300 width=660 alt="Banner">
 </p>
 
 [![Build Status](https://travis-ci.com/OCSInventory-NG/OCSInventory-ocsreports.svg?branch=master)](https://travis-ci.com/OCSInventory-NG/OCSInventory-ocsreports)
